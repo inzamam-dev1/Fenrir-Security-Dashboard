@@ -7,16 +7,16 @@ A production-ready React application recreating a B2B SaaS security platform, bu
 ## 🚀 Live Deployment
 **URL:** https://aps1.netlify.app/
 
-> [cite_start]**Note:** The application opens directly to the Login screen per requirement R6. 
+> **Note:** The application opens directly to the Login screen per requirement R6. 
 
 ---
 
 ## 🛠️ Tech Stack
-* [cite_start]**Framework:** React 18 (Vite) [cite: 71, 72]
-* [cite_start]**Styling:** Tailwind CSS [cite: 73]
+**Framework:** React 18 (Vite) [cite: 71, 72]
+**Styling:** Tailwind CSS [cite: 73]
 * **Icons:** Lucide-React
-* [cite_start]**Navigation:** React Router DOM [cite: 53]
-* [cite_start]**State Management:** React Context API (Theme & Global state) [cite: 48, 52]
+  **Navigation:** React Router DOM [cite: 53]
+  **State Management:** React Context API (Theme & Global state) [cite: 48, 52]
 
 ---
 
